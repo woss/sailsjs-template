@@ -1,1 +1,3 @@
-# sailsjs-template
+# app
+
+a [Sails](http://sailsjs.org) application
